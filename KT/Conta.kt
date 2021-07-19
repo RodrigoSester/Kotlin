@@ -10,6 +10,4 @@ class Conta (
     fun deposito(valor:BigDecimal){}
 
     fun saque(valor: BigDecimal){}
-
-
 }
